@@ -1,3 +1,4 @@
 ﻿  Hello.c
-  SO2_TP_testes.vcxproj -> c:\users\franc\documents\visual studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.exe
-  SO2_TP_testes.vcxproj -> c:\users\franc\documents\visual studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.pdb (Full PDB)
+  LINK : C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.exe not found or not built by the last incremental link; performing full link
+  SO2_TP_testes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.exe
+  SO2_TP_testes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.pdb (Full PDB)
