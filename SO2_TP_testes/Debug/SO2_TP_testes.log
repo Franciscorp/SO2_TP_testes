@@ -1,3 +1,7 @@
 ﻿  Hello.c
+<<<<<<< HEAD
+=======
+  LINK : C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.exe not found or not built by the last incremental link; performing full link
+>>>>>>> Macgab
   SO2_TP_testes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.exe
   SO2_TP_testes.vcxproj -> C:\Users\franc\Documents\Visual Studio 2015\Projects\SO2_TP_testes\Debug\SO2_TP_testes.pdb (Full PDB)
