@@ -7,5 +7,9 @@ int main() {
 	printf("Sou o franciscorp");
 =======
 	printf("Sou o macgab");
+<<<<<<< HEAD
+>>>>>>> Macgab
+=======
+	printf("Teste v3");
 >>>>>>> Macgab
 }
